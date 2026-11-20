@@ -34,7 +34,9 @@ Previously: software engineering intern and Scrum Master at Intellium Bilişim T
 
 ## Code
 
-Product repositories are private. I'm happy to share code samples on request.
+Product repositories are private. As an open sample, I published a simplified version of Coffee Go's translation pipeline:
+
+**[menu-translation-pipeline](https://github.com/MrSahiner/menu-translation-pipeline)**: on-demand translation with a city-aware glossary, two-level cache (HybridCache + Redis), owner corrections that are never overwritten, and integration tests on real PostgreSQL and Redis with Testcontainers.
 
 ## Contact
 
@@ -47,6 +49,6 @@ Backend ağırlıklı full-stack geliştirici ve Yozgat Bozok Üniversitesi Bilg
 
 Grentra'yı kuruyorum; bitirme projem **Coffee Go** (çok dilli QR menü, doğrulanmış yorum, sadakat ve masadan sipariş) ile **KutliGo**'yu (dijital davetiye ve QR fotoğraf albümü) tek başıma geliştiriyorum. 2026 yazında Intellium Bilişim Teknolojileri'nde yazılım mühendisliği stajyeri ve Scrum Master olarak çalıştım.
 
-Ürün repoları gizli; kod örneklerini talep üzerine paylaşıyorum. Ayrıntılar: [mrsahiner.github.io](https://mrsahiner.github.io/) · [CV](https://mrsahiner.github.io/cv.pdf)
+Ürün repoları gizli; Coffee Go'nun çeviri hattını [menu-translation-pipeline](https://github.com/MrSahiner/menu-translation-pipeline) reposunda açık bir örnek olarak paylaştım. Ayrıntılar: [mrsahiner.github.io](https://mrsahiner.github.io/) · [CV](https://mrsahiner.github.io/cv.pdf)
 
 </details>
